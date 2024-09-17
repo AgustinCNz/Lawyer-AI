@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/*Navbar":["./src/app/components/*"],
+      "@/*Home":["./src/app/pages/page.jsx"]
     }
   }
 }
